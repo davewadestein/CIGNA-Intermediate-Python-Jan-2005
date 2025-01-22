@@ -1,6 +1,10 @@
 # CIGNA-Intermediate-Python-Jan-2005
 * how to reach me: dave@developintelligence.com
 
+## Lab Environment
+* https://labs.bestitcourses.com/
+* each of you will be assigned a user name __`userXXX`__
+  
 ## Schedule (assuming students in Pacific and Eastern timezones)
 *  9:30-11:00 Eastern: CLASS
 * 11:00-11:10 Eastern: BREAK
