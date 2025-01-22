@@ -7,6 +7,8 @@
 ## Lab Environment
 * https://labs.bestitcourses.com/
 * each of you will be assigned a user name __`userXXX`__
+* totally fine to work locally on your own personal laptop
+  * you'll need to install Python and Jupyter Lab
   
 ## Schedule (assuming students in Pacific and Eastern timezones)
 *  9:30-11:00 Eastern: CLASS
