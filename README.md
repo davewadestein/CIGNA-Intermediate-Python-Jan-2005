@@ -1,6 +1,9 @@
 # CIGNA-Intermediate-Python-Jan-2025
 * how to reach me: dave@developintelligence.com
 
+## Note to myself
+* ensure we have a way to capture all of the student notebooks
+
 ## Lab Environment
 * https://labs.bestitcourses.com/
 * each of you will be assigned a user name __`userXXX`__
