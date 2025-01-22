@@ -16,7 +16,9 @@
 *  12:30-1:00 Eastern: LUNCH BREAK 1 (for Central/Eastern)
 *   1:00-2:30 Eastern: CLASS
 *   2:30-3:00 Eastern: LUNCH BREAK 2 (for Pacific/Mountain)
-*   3:00-5:30 Eastern: CLASS + break (or leave 10 mins. early)
+*   3:00-4:20 Eastern: CLASS
+*   4:20-4:30 Eastern: BREAK
+*   4:30-5:30 Eastern: CLASS
 
 ## Resources
 * https://pythontutor.com/
