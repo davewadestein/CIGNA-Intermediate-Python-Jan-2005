@@ -21,3 +21,5 @@
 ## Resources
 * https://pythontutor.com/
 * Python built-in functions: https://docs.python.org/3/library/functions.html
+* Python style guide https://peps.python.org/pep-0008/
+
