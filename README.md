@@ -1,6 +1,9 @@
 # CIGNA-Intermediate-Python-Jan-2025
 * how to reach me: dave@developintelligence.com
 
+## NOTE TO SELF
+* add introductory Python notebooks here
+  
 ## "Parking Lot" for Questions
 * What's with the / and the * in argument lists when you read the docs?
 
