@@ -1,6 +1,10 @@
 # CIGNA-Intermediate-Python-Jan-2025
 * how to reach me: dave@developintelligence.com
 
+## What to try on Friday
+* try using your work laptop instead of a personal one
+* reach out to Nick-provencher@pluralsight.com with results–does it work?
+
 ## NOTE TO SELF
 * add introductory Python notebooks here
   
