@@ -11,6 +11,9 @@
 * https://xoyondo.com/op/ejzsnr3nzheawro
 * https://xoyondo.com/op/tbpu4emsujxcnh6
 
+## Link to Intermediate materials:
+* https://github.com/davewadestein/Intermediate-Python
+  
 ## How to save your work
 * Create a Github repo (like this)
 * Log into it from your student environment
