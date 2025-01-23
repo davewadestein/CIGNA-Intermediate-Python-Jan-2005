@@ -1,8 +1,15 @@
 # CIGNA-Intermediate-Python-Jan-2025
 * how to reach me: dave@developintelligence.com
 
-## Note to myself
-* ensure we have a way to capture all of the student notebooks
+## Thursday 1-Question Polls
+* https://xoyondo.com/op/ejzsnr3nzheawro
+* https://xoyondo.com/op/tbpu4emsujxcnh6
+
+## How to save your work
+* Creat a Github repo (like this)
+* Log into it from your student environment
+* Drag notebooks into it
+* You probably can't access Google Drive / Dropbox / etc.
 
 ## Lab Environment
 * https://labs.bestitcourses.com/
