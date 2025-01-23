@@ -1,6 +1,9 @@
 # CIGNA-Intermediate-Python-Jan-2025
 * how to reach me: dave@developintelligence.com
 
+## "Parking Lot" for Questions
+* What's with the / and the * in argument lists when you read the docs?
+
 ## Thursday 1-Question Polls
 * https://xoyondo.com/op/ejzsnr3nzheawro
 * https://xoyondo.com/op/tbpu4emsujxcnh6
