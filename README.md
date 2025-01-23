@@ -6,7 +6,7 @@
 * https://xoyondo.com/op/tbpu4emsujxcnh6
 
 ## How to save your work
-* Creat a Github repo (like this)
+* Create a Github repo (like this)
 * Log into it from your student environment
 * Drag notebooks into it
 * You probably can't access Google Drive / Dropbox / etc.
