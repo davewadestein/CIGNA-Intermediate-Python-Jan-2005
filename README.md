@@ -6,7 +6,7 @@
 * reach out to Nick-provencher@pluralsight.com with results–does it work?
 
 ## NOTE TO SELF
-* add introductory Python notebooks here
+* add introductory Python notebooks here ... DONE
   
 ## "Parking Lot" for Questions
 * What's with the / and the * in argument lists when you read the docs?
