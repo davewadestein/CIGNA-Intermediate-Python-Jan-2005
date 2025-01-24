@@ -4,9 +4,6 @@
 ## What to try on Friday
 * try using your work laptop instead of a personal one
 * reach out to Nick-provencher@pluralsight.com with results–does it work?
-  
-## "Parking Lot" for Questions
-* What's with the / and the * in argument lists when you read the docs?
 
 ## Friday 1-Question Polls
 * https://xoyondo.com/op/b49kcih7nvq5dup
