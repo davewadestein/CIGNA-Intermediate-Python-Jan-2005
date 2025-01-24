@@ -1,6 +1,9 @@
 # CIGNA-Intermediate-Python-Jan-2025
 * how to reach me: dave@developintelligence.com
 
+## Course Evaluation (please fill out)
+* https://pluralsight.surveymonkey.com/r/NXFX3KR
+
 ## What to try on Friday
 * try using your work laptop instead of a personal one
 * reach out to Nick-provencher@pluralsight.com with results–does it work?
