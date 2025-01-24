@@ -11,9 +11,14 @@
 ## "Parking Lot" for Questions
 * What's with the / and the * in argument lists when you read the docs?
 
+## Friday 1-Question Polls
+* https://xoyondo.com/op/b49kcih7nvq5dup
+* https://xoyondo.com/op/fb1x8vnsxpj5p4z
+
 ## Thursday 1-Question Polls
-* https://xoyondo.com/op/ejzsnr3nzheawro
-* https://xoyondo.com/op/tbpu4emsujxcnh6
+<img width="200" alt="Screenshot 2025-01-23 at 9 38 48 PM" src="https://github.com/user-attachments/assets/8fd2c32a-9bc7-488d-8ab2-c1598a96fea0" />
+<img width="118" alt="Screenshot 2025-01-23 at 9 40 23 PM" src="https://github.com/user-attachments/assets/a30415c6-407c-49b8-a7bd-cd50de961249" />
+
 
 ## Link to Intermediate materials:
 * https://github.com/davewadestein/Intermediate-Python
