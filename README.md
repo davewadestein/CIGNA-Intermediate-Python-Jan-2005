@@ -1,6 +1,8 @@
 # CIGNA-Intermediate-Python-Jan-2025
 * how to reach me: dave@developintelligence.com
 
+### IMPORTANT! CLOUD ENVIRONMENTS HAVE BEEN SHUT DOWN FOR THE WEEKEND. THEY WILL BE REACTIVATED ON MONDAY. IF YOU HAVEN'T ALREADY SAVED YOUR WORK FROM THE CLOUD ENVIRONMENT, PLEASE DO SO ON MONDAY. REACH OUT IF YOU ARE HAVING ISSUES.
+
 ## Course Evaluation (please fill out)
 * https://pluralsight.surveymonkey.com/r/NXFX3KR
 
